@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{11FC42AC-85E8-4824-8534-1AD9585DD6E8}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MayvueTech FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MayvueTech/Services/DBServices.cs">
+    <Files>
+      <File FileName="MayvueTech/Program.cs" Line="1" Column="1" />
+      <File FileName="MayvueTech/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="MayvueTech/Services/EmptyClass.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MayvueTech" expanded="True">
+            <Node name="MayvueTech" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
