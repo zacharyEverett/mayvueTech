@@ -7,12 +7,12 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="MayvueTech/Controllers/MovieController.cs">
     <Files>
-      <File FileName="MayvueTech/Program.cs" Line="1" Column="1" />
-      <File FileName="MayvueTech/Services/DBServices.cs" Line="27" Column="46" />
-      <File FileName="MayvueTech/Models/EmptyClass.cs" Line="16" Column="1" />
+      <File FileName="MayvueTech/Program.cs" Line="12" Column="54" />
+      <File FileName="MayvueTech/Services/DBServices.cs" Line="35" Column="6" />
       <File FileName="MayvueTech/appsettings.Development.json" Line="1" Column="1" />
-      <File FileName="MayvueTech/Properties/launchSettings.json" Line="31" Column="35" />
-      <File FileName="MayvueTech/Controllers/MovieController.cs" Line="15" Column="28" />
+      <File FileName="MayvueTech/Properties/launchSettings.json" Line="32" Column="28" />
+      <File FileName="MayvueTech/Controllers/MovieController.cs" Line="28" Column="2" />
+      <File FileName="MayvueTech/Models/Movie.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,6 +20,7 @@
           <Node name="MayvueTech" expanded="True">
             <Node name="MayvueTech" expanded="True">
               <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
               <Node name="Controllers" expanded="True">
