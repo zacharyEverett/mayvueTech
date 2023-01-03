@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using MayvueTech.Models;
 using MayvueTech.Services;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
 
@@ -13,6 +14,7 @@ namespace MayvueTech.Controllers
 
     [ApiController]
     [Route("[controller]")]
+    [EnableCors("Policy1")]
     public class MovieController : Controller
     {
         DB dao = new DB();

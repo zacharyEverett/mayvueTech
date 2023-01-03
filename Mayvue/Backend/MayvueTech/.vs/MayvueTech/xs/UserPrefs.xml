@@ -1,15 +1,18 @@
 ﻿<Properties StartupConfiguration="{11FC42AC-85E8-4824-8534-1AD9585DD6E8}|https">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MayvueTech FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.MayvueTech PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="MayvueTech/Services/DBServices.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MayvueTech/Controllers/MovieController.cs">
     <Files>
       <File FileName="MayvueTech/Program.cs" Line="1" Column="1" />
-      <File FileName="MayvueTech/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
-      <File FileName="MayvueTech/Services/EmptyClass.cs" Line="8" Column="1" />
+      <File FileName="MayvueTech/Services/DBServices.cs" Line="27" Column="46" />
+      <File FileName="MayvueTech/Models/EmptyClass.cs" Line="16" Column="1" />
+      <File FileName="MayvueTech/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="MayvueTech/Properties/launchSettings.json" Line="31" Column="35" />
+      <File FileName="MayvueTech/Controllers/MovieController.cs" Line="15" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,8 +22,13 @@
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="MovieController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
               <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
